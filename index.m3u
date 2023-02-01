@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://github.com/cloud207/mytv/raw/main/logos/Mahar-E-Sport-HD-Logo.png" group-title="Myanmar",Mahar Esports
+https://tv.mahar.live/esports/mahar.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://github.com/cloud207/mytv/raw/main/logos/Channel-HD-Logo.png" group-title="Myanmar",Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://github.com/cloud207/mytv/raw/main/logos/Mizzima%2BTV.png" group-title="Myanmar",Mizzima TV
+https://mizzima-live.b-cdn.net/live2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://github.com/cloud207/mytv/raw/main/logos/Mizzima-TV.png" group-title="Myanmar",Mizzima+ TV
+https://mizzima-live.b-cdn.net/live1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Myanmar",MRTV HD
+https://l1-xl1.myanmarnet.com/relay/mrtvhd/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Myanmar",MRTV NEWS
+https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
